@@ -49,8 +49,8 @@ A magnet appears on the way, which will influence the motion of the
 hero. So if he is in the range of the magnet, he would be continuously attracted towards
 the magnet.
 #### Boss:
-The boss enemy must appear in the end.The boss enemy a flying dragon that adjusts its
-position according to the player. It throws ice balls aimed at the hero, which he must dodge.
+The boss enemy shall appear in the end. The boss enemy a flying dragon that adjusts its
+position according to the player. It throws ice balls aimed at the hero, which you must dodge.
 #### Bullets and SnowBalls:
 These are the weapons of the hero and the dragon respectivly.
 __________________
