@@ -57,7 +57,7 @@ __________________
 
 ___________________
 
-Reqiurements:
+Requirements:
 --------------------
 - Python3 with the following modules installed
 1) numpy
